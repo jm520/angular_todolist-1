@@ -1,4 +1,16 @@
-# AngularJs项目
-## Todo list
-------------------------
-# 项目特色
+#ajax留言板
+作者Evans
+-----------
+项目特色
+<ul>
+  <li>HTNL5</li>
+  <li>XMLHpptRequest</li>
+  <li>PHP+MYAQL</li>
+  <li>Ajax_PAGE</li>
+</ul>
+#安装步骤
+<ul>
+<li>需要安装本地环境xmpp</li>
+<li>把项目中的sql文件导入进去</li>
+<li>将源码cope到</li>
+</ul>
